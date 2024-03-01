@@ -5,6 +5,7 @@ description = "fastapi-apex: A robust FastAPI framework and scaffolding tool for
 authors = ["Ezio Ruan <ezioruan@example.com>"]
 readme = "README.md"
 packages = [{include = "fastapi-apex"}]
+repository = "https://github.com/ezioruan/apex"
 
 [tool.poetry.dependencies]
 python = "^3.10"
